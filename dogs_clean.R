@@ -14,7 +14,7 @@ dogs <- read_csv("Dogs-Database.csv")
 dogs_tidy <- dogs %>% 
   # clean names to snake_case
   clean_names() %>% 
-  # flights are recorded on same row - out on separate rows to make it 'tidy'
+  # flights are recorded on same row - put on separate rows to make it 'tidy'
   separate_rows(flights, sep = ",") %>% 
   # format data
   mutate(flights = ymd(flights),
