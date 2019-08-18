@@ -6,10 +6,6 @@ library(ggtext)
 
 # join the cleaned dog and flight data
 
-dogs_flights <- dogs_tidy %>% 
-  inner_join(flights_tidy, by = "date_flight") %>% 
-  filter(!is.na(altitude))
-
 font_add_google("Space Mono", "Space Mono")
 
 all_dogs_flights <- dogs_tidy %>% 
@@ -29,7 +25,7 @@ p <- ggplot(all_dogs_flights, aes(x = year_pos, y = flight_year)) +
                        description = "The 1st living creature in orbit, never expected to survive"),
                    label.family = "Space Mono",
                    label.fontsize = 10,
-                   label.colour = c("#E14435", "white"),
+                   label.colour = c("#CC79A7", "white"),
                    label.fill = "#383854",
                    label.buffer = unit(1, 'mm'),
                    con.colour = "white",
@@ -41,7 +37,7 @@ p <- ggplot(all_dogs_flights, aes(x = year_pos, y = flight_year)) +
                        description = "The 1st deaths, due to parachute failure"),
                    label.family = "Space Mono",
                    label.fontsize = 10,
-                   label.colour = c("#E14435", "white"),
+                   label.colour = c("#CC79A7", "white"),
                    label.fill = "#383854",
                    label.buffer = unit(1, 'mm'),
                    con.colour = "white",
@@ -65,7 +61,7 @@ p <- ggplot(all_dogs_flights, aes(x = year_pos, y = flight_year)) +
                         description = "Spent a day in space and safely returned to earth"),
                     label.family = "Space Mono",
                     label.fontsize = 10,
-                    label.colour = c("#B98924", "white"),
+                    label.colour = c("#E69F00", "white"),
                     label.fill = "#383854",
                     label.buffer = unit(1, 'mm'),
                     con.colour = "white",
@@ -80,7 +76,7 @@ p <- ggplot(all_dogs_flights, aes(x = year_pos, y = flight_year)) +
                  hjust = 0, family = "Space Mono", 
                  color = "white", size = 3.3) +
   scale_y_reverse(breaks = seq(1951, 1966, 1)) +
-  scale_fill_manual(values = c("Survived" = "#B98924", "Died" = "#E14435")) +
+  scale_fill_manual(values = c("Survived" = "#E69F00", "Died" = "#CC79A7")) +
   labs(y = "", x = "", 
        fill = "Each dot represents a dog and its fate on a mission\nDogs on the same flight are connected by a line",
        title = "Soviet Space Dogs",
