@@ -10,7 +10,7 @@ The data has been sourced from [here](https://airtable.com/universe/expG3z2CFykG
 ## Data Viz
 `dog_flight_plot.R` creates the data visualisation saved as `soviet_space_dogs.png`. Built with `ggplot2`, `ggforce`, `ggtext` and `showtext`.
 
-![](soviet_space_dogs.png){ width=80% }
+<img src="soviet_space_dogs.png" width="600px">
 
 ## This is all a bit incoherent, can you give me more?
 Blog post on the cleaning/tidying steps can be found here:
