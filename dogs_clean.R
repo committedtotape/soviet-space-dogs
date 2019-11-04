@@ -9,6 +9,8 @@ library(janitor) # cleaning things
 
 dogs <- read_csv("Dogs-Database.csv")
 
+dogs
+
 # pipeline to clean and make tidy the dataset
 
 dogs_tidy <- dogs %>% 
@@ -17,14 +19,13 @@ dogs_tidy <- dogs %>%
   # flights are recorded on same row - put on separate rows to make it 'tidy'
   separate_rows(flights, sep = ",") %>% 
   # format data
-  mutate(flights = ymd(flights),
+  mutate(date_flight = ymd(flights),
          # from fate variable extract the date if dog died
          date_death = case_when(str_sub(fate, 1, 4) == "Died" ~ str_sub(fate, 6, 15)),
          date_death = ymd(date_death),
          # if dog died on flight then set flight_fate to Died
-         flight_fate = case_when(flights == date_death ~ "Died",
+         flight_fate = case_when(date_flight == date_death ~ "Died",
                           TRUE ~ "Survived")) %>% 
-  rename(date_flight = flights) %>% 
   # put notes at end of columns, remove fate (replaced by flight_fate)
   select(-notes, everything(), -fate)
 
