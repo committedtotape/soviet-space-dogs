@@ -1,0 +1,82 @@
+name_latin,name_english,name_cyrillic,gender,flights,date_flight,date_death,flight_fate,notes
+Dezik,Dezik,Дезик,Male,1951-07-22,1951-07-22,1951-07-29,Survived,NA
+Dezik,Dezik,Дезик,Male,1951-07-29,1951-07-29,1951-07-29,Died,NA
+Tsygan,Gypsy,Цыган,Male,1951-07-22,1951-07-22,NA,Survived,Adopted as a pet by Soviet physicist Anatoli Blagonravov
+Lisa,Fox,Лиса,Female,1951-07-29,1951-07-29,1951-07-29,Died,NA
+Chizhik,Siskin,Чижик,Male,1951-08-15,1951-08-15,1951-08-28,Survived,NA
+Chizhik,Siskin,Чижик,Male,1951-08-28,1951-08-28,1951-08-28,Died,NA
+Mishka,Little Bear,Мишка,Male,1951-08-15,1951-08-15,1951-08-28,Survived,NA
+Mishka,Little Bear,Мишка,Male,1951-08-28,1951-08-28,1951-08-28,Died,NA
+Ryzhik,Ginger,Рыжик,Male,1951-08-19,1951-08-19,NA,Survived,NA
+Smeliy,Courageous,Смелая,Male,1951-08-19,1951-08-19,NA,Survived,NA
+Neputeviy,Scamp,Непутёвый,Male,1951-09-03,1951-09-03,NA,Survived,NA
+ZIB,Substitute for Missing Bobik,Замена Исчезнувшему Бобику,Male,1951-09-03,1951-09-03,NA,Survived,"An untrained street dog found running around the barracks, captured after Bobik ran away days before his flight."
+Lisa-2,Fox,Лиса,Female,1951-06-26,1951-06-26,1955-02-05,Survived,NA
+Lisa-2,Fox,Лиса,Female,1954-07-26,1954-07-26,1955-02-05,Survived,NA
+Lisa-2,Fox,Лиса,Female,1955-02-05,1955-02-05,1955-02-05,Died,NA
+Ryzhik-2,Ginger,Рыжик,Male,1951-06-26,1951-06-26,1954-07-07,Survived,NA
+Ryzhik-2,Ginger,Рыжик,Male,1954-07-07,1954-07-07,1954-07-07,Died,NA
+Damka,Little Lady,Дамка,Female,1954-07-02,1954-07-02,NA,Survived,NA
+Damka,Little Lady,Дамка,Female,1954-07-07,1954-07-07,NA,Survived,NA
+Mishka-2,Little Bear,Мишка,Male,1954-07-02,1954-07-02,1954-07-02,Died,NA
+Ryzhik-3,Ginger,Рыжик,Male,1954-07-26,1954-07-26,NA,Survived,NA
+Rita,Rita,Рита,Female,1955-01-25,1955-01-25,1955-01-25,Died,NA
+Linda,Linda,Лида,Female,1955-01-25,1955-01-25,NA,Survived,NA
+Linda,Linda,Лида,Female,1956-05-31,1956-05-31,NA,Survived,NA
+Bulba,Bulba,Бульба,Female,1955-02-05,1955-02-05,1955-02-05,Died,NA
+Knopka,Button,Кнопка,Female,1955-11-04,1955-11-04,1958-10-31,Survived,NA
+Knopka,Button,Кнопка,Female,1958-10-31,1958-10-31,1958-10-31,Died,NA
+Malyshka,Little One,Малышка,Female,1955-11-04,1955-11-04,NA,Survived,NA
+Malyshka,Little One,Малышка,Female,1956-05-31,1956-05-31,NA,Survived,NA
+Albina,Whitey,Альбина,Female,1956-05-14,1956-05-14,NA,Survived,NA
+Albina,Whitey,Альбина,Female,1956-06-07,1956-06-07,NA,Survived,NA
+Albina,Whitey,Альбина,Female,1956-06-14,1956-06-14,NA,Survived,NA
+Kozyavka,Little Gnat,Козявка,Female,1956-05-14,1956-05-14,NA,Survived,NA
+Kozyavka,Little Gnat,Козявка,Female,1956-06-07,1956-06-07,NA,Survived,NA
+Kozyavka,Little Gnat,Козявка,Female,1956-06-14,1956-06-14,NA,Survived,NA
+Kozyavka,Little Gnat,Козявка,Female,1958-09-19,1958-09-19,NA,Survived,NA
+Damka-2,Little Lady,Дамка,Female,1957-05-16,1957-05-16,NA,Survived,NA
+Damka-2,Little Lady,Дамка,Female,1957-08-31,1957-08-31,NA,Survived,NA
+Damka-2,Little Lady,Дамка,Female,1958-09-19,1958-09-19,NA,Survived,NA
+Dzhoyna,Dzhoyna,Джойна,Female,1957-05-24,1957-05-24,1957-05-24,Died,NA
+Ryzhaya,Redhead,Рыжая,Female,1957-05-16,1957-05-16,1957-05-24,Survived,NA
+Ryzhaya,Redhead,Рыжая,Female,1957-05-24,1957-05-24,1957-05-24,Died,NA
+Belka,Squirrel,Белка,Female,1957-08-25,1957-08-25,NA,Survived,NA
+Belka,Squirrel,Белка,Female,1957-08-31,1957-08-31,NA,Survived,NA
+Belka,Squirrel,Белка,Female,1957-09-06,1957-09-06,NA,Survived,NA
+Belka,Squirrel,Белка,Female,1960-08-19,1960-08-19,NA,Survived,NA
+Modnitsa,Fashionable,Модница,Female,1957-08-25,1957-08-25,NA,Survived,NA
+Modnitsa,Fashionable,Модница,Female,1957-09-06,1957-09-06,NA,Survived,NA
+Laika,Barker,Лайка,Female,1957-11-03,1957-11-03,1957-11-03,Died,Also known as Kudryavka (Little Curly) and Limonchik (Little Lemon) and Zhuchka (Little Beetle) and also Muttnik
+Palma,Palm,Пальма,Female,1958-02-21,1958-02-21,1958-02-21,Died,NA
+Pushok,Fluffy,Пушок,Male,1958-02-21,1958-02-21,1958-02-21,Died,NA
+Kusachka / Otvazhnaya,Biter / Brave One,Отважная,Female,1959-07-02,1959-07-02,NA,Survived,Made the most flights of any space dog.
+Kusachka / Otvazhnaya,Biter / Brave One,Отважная,Female,1959-07-10,1959-07-10,NA,Survived,Made the most flights of any space dog.
+Kusachka / Otvazhnaya,Biter / Brave One,Отважная,Female,1960-06-15,1960-06-15,NA,Survived,Made the most flights of any space dog.
+Kusachka / Otvazhnaya,Biter / Brave One,Отважная,Female,1960-06-24,1960-06-24,NA,Survived,Made the most flights of any space dog.
+Kusachka / Otvazhnaya,Biter / Brave One,Отважная,Female,1960-09-22,1960-09-22,NA,Survived,Made the most flights of any space dog.
+Kusachka / Otvazhnaya,Biter / Brave One,Отважная,Female,1958-08-13,1958-08-13,NA,Survived,Made the most flights of any space dog.
+Kusachka / Otvazhnaya,Biter / Brave One,Отважная,Female,1958-08-02,1958-08-02,NA,Survived,Made the most flights of any space dog.
+Palma-2,Palm,Пальма,Female,1958-08-02,1958-08-02,NA,Survived,NA
+Palma-2,Palm,Пальма,Female,1958-08-13,1958-08-13,NA,Survived,NA
+Palma-2,Palm,Пальма,Female,1960-09-16,1960-09-16,NA,Survived,NA
+Belyanka,Little Whitey,Белянка,Female,1958-08-27,1958-08-27,NA,Survived,NA
+Pestraya,Spotted,Пестрая,Female,1958-08-27,1958-08-27,NA,Survived,NA
+Zhulba,Zhulba,Жульба,Female,1958-10-31,1958-10-31,1958-10-31,Died,NA
+Snezhinka / Zhemchuzhnaya,Snowflake / Pearly,Снежинка / Жемчужная,Female,1959-07-02,1959-07-02,NA,Survived,NA
+Snezhinka / Zhemchuzhnaya,Snowflake / Pearly,Снежинка / Жемчужная,Female,1959-07-10,1959-07-10,NA,Survived,NA
+Snezhinka / Zhemchuzhnaya,Snowflake / Pearly,Снежинка / Жемчужная,Female,1960-06-24,1960-06-24,NA,Survived,NA
+Malyok,Small Fry,Малёк,Male,1960-06-15,1960-06-15,NA,Survived,NA
+Malyok,Small Fry,Малёк,Male,1960-09-16,1960-09-16,NA,Survived,NA
+Lisichka,Little Fox,Лисичка,Female,1960-07-28,1960-07-28,1960-07-28,Died,NA
+Bars / Chaika,Panther / Seagull,Барс / Чайка,Female,1960-07-28,1960-07-28,1960-07-28,Died,NA
+Strelka,Little Arrow,Стрелка,Female,1960-08-19,1960-08-19,NA,Survived,"Went on to have six puppies with a male dog named Pushok who participated in many ground-based space experiments, but never made it into space. One of the pups was named Pushinka (Пушинка, ""Fluffy"") and was presented to President John F. Kennedy by Nikita Khrushchev in 1961. A Cold War romance bloomed between Pushinka and a Kennedy dog named Charlie, resulting in the birth of four pups that JFK referred to jokingly as pupniks. Two of their pups, Butterfly and Streaker were given away to children in the Midwest. The other two puppies, White Tips and Blackie, stayed at the Kennedy home on Squaw Island but were eventually given away to family friends."
+Neva,Neva,Нева,Female,1960-09-22,1960-09-22,NA,Survived,NA
+Mushka,Little Fly,Мушка,Female,1960-12-01,1960-12-01,1960-12-01,Died,NA
+Pchyolka,Little Bee,Пчёлка,Female,1960-12-01,1960-12-01,1960-12-01,Died,NA
+Shutka,Joke,Шутка,Female,1960-12-22,1960-12-22,NA,Survived,"Also known as Damka (Little Lady) and Zhemchuzhina (Pearl). Adopted by Oleg Gazenko, a leading Soviet space scientist. She went on to have puppies and continued living with Gazenko and his family until her death 14 years later."
+Chernuskha,Blackie,Чернушка,Female,1961-03-09,1961-03-09,NA,Survived,NA
+Kometka,Comet,Кометка,Female,1960-12-22,1960-12-22,NA,Survived,Also known as Krasavka (Cheater) and Zhulka (Beauty) and Zhemchuzhnaya (Pearly) and Snezchinka (Snowflake)
+Zvezdochka,Little Star,Звёздочка,Female,1961-03-25,1961-03-25,NA,Survived,NA
+Ugolyok / Snezhok,Little Piece of Coal / Snowball,Уголёк / Снежок,Male,1966-02-22,1966-02-22,NA,Survived,NA
+Veterok / Bzdunok,Little Wind / Little Fart,Ветерок / Вздунок,Male,1966-02-22,1966-02-22,NA,Survived,NA

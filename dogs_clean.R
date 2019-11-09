@@ -40,6 +40,6 @@ count(dogs_tidy, flight_fate)
 # Data is no longer unique by dog, but unique by dog-flight combination
 # To be joined to flights data for more information
 
-
+write_csv(dogs_tidy, "dogs_clean.csv")
 
 
