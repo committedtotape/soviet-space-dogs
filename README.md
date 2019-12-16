@@ -12,10 +12,19 @@ The data has been sourced from [here](https://airtable.com/universe/expG3z2CFykG
 
 <img src="soviet_space_dogs.png" width="600px">
 
-## This is all a bit incoherent, can you give me more?
+## Try it yourself
+The cleaning steps output the cleaned data as CSV files:
+`dogs_clean.csv`
+`flights_clean.csv`
+
+Feel free to create your own data viz!
+
+## Blog posts
 Blog post on the cleaning/tidying steps can be found here:
 [https://davidsmale.netlify.com/portfolio/soviet-space-dogs-part-1/](https://davidsmale.netlify.com/portfolio/soviet-space-dogs-part-1/)
 
-Blog post on the data visualisation coming soon...
+Blog post on the data visualisation can be found here:
+[https://davidsmale.netlify.com/portfolio/soviet-space-dogs-part-2/](https://davidsmale.netlify.com/portfolio/soviet-space-dogs-part-2/)
+
 
 
